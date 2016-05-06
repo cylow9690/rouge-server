@@ -1,0 +1,7 @@
+RougeServer is a highly customizable and modular Massively Multi-player Online (MMO) game server. An API is provided for Objective-C, Java and C#, making it ideal for iOs, Android and Windows Mobile. It provides basic communication services between players (instant messages, rooms, etc.), and various data storage/sharing schemes (persistent variables, mailboxes, etc.).
+
+RougeServer is licensed under the Apache Licenses 2.0 and uses a collection of libraries, most of them also under the Apache license or under the MIT license. There is also the MySQL JDBC connector, which is licensed under the GPL, under the FOSS exception.
+
+RougeServer offers an alternative to other commercial products, such as Electro, Photon and SmartFox. Although each of these products have their strengths, they also have their weaknesses. I believed a flexible MMOG server can be built using open-source technology. RougeServer was born of that belief, combined with 5 years of research in massively multiplayer technology and many other years of game development.
+
+This is by no means a solo-project. People are encouraged to help, especially when porting clients to different platform. Feel free to contact me at info@rougeserver.com .
